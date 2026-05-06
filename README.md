@@ -57,5 +57,6 @@ Run this:
 *Mustafa Göktürk Binay - TOBB ETÜ*
 
 ## Gallery
-<img width="1386" height="715" alt="image" src="https://github.com/user-attachments/assets/26fe2546-35fd-4e14-97b7-5a4d18b44526" />
+<img width="1386" height="715" alt="a wave" src="https://github.com/user-attachments/assets/26fe2546-35fd-4e14-97b7-5a4d18b44526" />
 
+<img width="1386" height="715" alt="lose screen" src="https://github.com/user-attachments/assets/88ac5b4e-94e6-4eee-8c59-7306577f29aa" />
