@@ -1,4 +1,4 @@
-
+<img width="1386" height="715" alt="image" src="https://github.com/user-attachments/assets/173f2f88-8e86-4f3f-91fc-f788078fdcd0" />
 # Plants vs Zombies - Java Edition
 [Demo Video](https://youtu.be/2c_dMtyTWnk?si=Jn51soZRSYKNKlTB)
 
@@ -56,3 +56,7 @@ Run this:
 `java com.pvz.Main`
 
 *Mustafa Göktürk Binay - TOBB ETÜ*
+
+## Gallery
+<img width="1386" height="715" alt="image" src="https://github.com/user-attachments/assets/26fe2546-35fd-4e14-97b7-5a4d18b44526" />
+
