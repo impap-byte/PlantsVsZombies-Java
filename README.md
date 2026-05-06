@@ -1,6 +1,6 @@
 
 # Plants vs Zombies - Java Edition
-[Demo Video] (https://youtu.be/2c_dMtyTWnk?si=Jn51soZRSYKNKlTB)
+[Demo Video](https://youtu.be/2c_dMtyTWnk?si=Jn51soZRSYKNKlTB)
 
 ## Overview
 This project is a Java-based clone of the classic game *Plants vs. Zombies*, developed as part of the [BIL211 - Computer Programming II](https://abys.etu.edu.tr/public/lesson.jsp?program=5&lang=tr&lesson=B%C4%B0L211) coursework. The game demonstrates core Object-Oriented Programming (OOP) principles, multithreading, state management, and file I/O in Java. 
